@@ -9,15 +9,18 @@
 
 :root {
     /* Colors */
-      --primary-brown: #6B4E3D;
-    --accent-brown: #A67C52;
-    --accent-light: #D4A574;
-    --text-dark: #F5F1ED;
-    --text-light: #C7B9AD;
-    --bg-dark: #6B4E3D;
-    --bg-white: #FFFFFF;
-    --bg-card: rgba(255, 255, 255, 0.1);
-    --border-color: rgba(245, 241, 237, 0.2);
+ :root {
+  --primary-brown: #0F3D63;   /* Primary Blue */
+  --accent-brown: #1E6FA8;    /* Accent Blue */
+  --accent-light: #5FA8E0;    /* Light Accent */
+  --text-dark: #EAF4FB;       /* Light text on dark */
+  --text-light: #B5D4EB;      /* Muted blue text */
+  --bg-dark: #0B2C45;         /* Main dark background */
+  --bg-white: #FFFFFF;
+  --bg-card: rgba(255, 255, 255, 0.08);
+  --border-color: rgba(180, 220, 255, 0.25);
+}
+
     
     /* Typography */
     --font-display: 'Playfair Display', serif;
