@@ -9,13 +9,13 @@
 
 :root {
     /* Colors */
-    --primary-brown: #646cffaa;
-    --accent-brown: #646cffaa;
-    --accent-light: #646cffaa;
-    --text-dark: #646cffaa;
-    --text-light: #646cffaa;
-    --bg-dark: #646cffaa;
-    --bg-white: #646cffaa;
+      --primary-brown: #6B4E3D;
+    --accent-brown: #A67C52;
+    --accent-light: #D4A574;
+    --text-dark: #F5F1ED;
+    --text-light: #C7B9AD;
+    --bg-dark: #6B4E3D;
+    --bg-white: #FFFFFF;
     --bg-card: rgba(255, 255, 255, 0.1);
     --border-color: rgba(245, 241, 237, 0.2);
     
